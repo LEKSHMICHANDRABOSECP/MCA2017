@@ -4,6 +4,7 @@ void main()
 {
 clrscr();
 printf "Hello World";
+printf "\nWelcomes You";
 getch();
 }
 
